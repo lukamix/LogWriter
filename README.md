@@ -2,11 +2,11 @@
 If you want to use this Service you must have Visual Studio with .Net Framework
 Download this project, Run with VS Studio
 
-1,Search “Command Prompt” and run as administrator
-2,Fire the below command in the command prompt and press ENTER.
+1.Search “Command Prompt” and run as administrator
+2.Fire the below command in the command prompt and press ENTER.
 cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
-3,Now Go to your project source folder > bin > Debug and copy the full path of your Windows Service exe file.
-4,Installing a Windows Service
+3.Now Go to your project source folder > bin > Debug and copy the full path of your Windows Service exe file.
+4.Installing a Windows Service
 Open the command prompt and fire the below command and press ENTER.
 Syntax:
 InstallUtil.exe + Your copied path + \your service name + .exe
