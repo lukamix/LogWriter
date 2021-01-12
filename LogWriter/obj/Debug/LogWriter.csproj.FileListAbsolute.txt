@@ -1,0 +1,8 @@
+C:\Users\PV\source\repos\LogWriter\LogWriter\bin\Debug\LogWriter.exe.config
+C:\Users\PV\source\repos\LogWriter\LogWriter\bin\Debug\LogWriter.exe
+C:\Users\PV\source\repos\LogWriter\LogWriter\bin\Debug\LogWriter.pdb
+C:\Users\PV\source\repos\LogWriter\LogWriter\obj\Debug\LogWriter.ProjectInstaller.resources
+C:\Users\PV\source\repos\LogWriter\LogWriter\obj\Debug\LogWriter.csproj.GenerateResource.cache
+C:\Users\PV\source\repos\LogWriter\LogWriter\obj\Debug\LogWriter.csproj.CoreCompileInputs.cache
+C:\Users\PV\source\repos\LogWriter\LogWriter\obj\Debug\LogWriter.exe
+C:\Users\PV\source\repos\LogWriter\LogWriter\obj\Debug\LogWriter.pdb
