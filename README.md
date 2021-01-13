@@ -1,6 +1,7 @@
 # LogWriter
 If you want to use this Service you must have Visual Studio with .Net Framework
 Download this project, Run with VS Studio
+Change all the string parameter with @"C:\Users\PV\Desktop\Test_Log" in Service1.cs to the path of directory you want !
 
 1.Search “Command Prompt” and run as administrator
 2.Fire the below command in the command prompt and press ENTER.
