@@ -12,7 +12,7 @@ Open the command prompt and fire the below command and press ENTER.
 Syntax:
 InstallUtil.exe + Your copied path + \your service name + .exe
 
-Our path
+Ex:
 InstallUtil.exe C:\Users\PV\source\repos\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
 Check the status of a Windows Service
 Open services by following the below steps:
